@@ -1,0 +1,18 @@
+{
+  "name": "test-telus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "middle-number": "npx ts-node ./middle-number.ts",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.4"
+  }
+}
